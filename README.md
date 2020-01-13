@@ -12,9 +12,9 @@
 
 "^" 为分隔符 可以匹配任何单个字符。
 
-"|" 为管线符号 来表示地址的最前端或最末端 比如 "|http://" 或 |http://www.abc.com/a.js|，用于精确控制匹配的开始或结束。
+"|" 为管线符号 来表示地址的最前端或最末端 比如 "|http://" 或 |http://www.abc.com/a.js| ，用于精确控制匹配的开始或结束。
 
-订阅地址: https://raw.githubusercontent.com/xuconnery/my_adblock/master/my_rules.txt
+订阅地址: https://raw.githubusercontent.com/xuconnery/myadblock/master/adblock.txt
 
 # update
 
