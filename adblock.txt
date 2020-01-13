@@ -1,0 +1,14 @@
+! Title: My Private ABP
+! Version: 20200113
+! Expires: 12 days
+! Homepage: https://github.com/xuconnery/myadblock
+
+! --------------------------------乐播投屏广告-------------------------------- !
+||sdkauth.hpplay.cn^
+||adeng.hpplay.cn^
+||ad.hpplay.cn^
+||conf.hpplay.cn^
+||fix.hpplay.cn^
+||adcdn.hpplay.cn^
+||sl.hpplay.cn^
+||rp.hpplay.cn^
