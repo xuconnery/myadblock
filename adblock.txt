@@ -12,3 +12,7 @@
 ||adcdn.hpplay.cn^
 ||sl.hpplay.cn^
 ||rp.hpplay.cn^
+! --------------------------------google ads-------------------------------- !
+||http://doubleclick.net
+||https://doubleclick.net
+||https://googleads.g.doubleclick.net
