@@ -4,14 +4,31 @@
 ! Homepage: https://github.com/xuconnery/myadblock
 
 ! --------------------------------乐播投屏广告-------------------------------- !
-||sdkauth.hpplay.cn^
-||adeng.hpplay.cn^
+||h5.hpplay.com.cn^
+||hpplay.cdn.cibn.cc^              
+||sdkauth.hpplay.cn^                                                                                    
+||imdns.hpplay.cn^                                                                                       
+||vipauth.hpplay.cn^                                                                                    
+||rp.hpplay.cn^                                                                                          
+||sl.hpplay.cn^                                                                                          
+||519332da.rtc.youme.im/^                                                                                 
+||hotupgrade.hpplay.cn^                                                                                    
+||pin.hpplay.cn^                                                                                         
+||tvapp.hpplay.cn^                                                        
+||hpplay.cdn.cibn.cc^                                                                                    
+||image.hpplay.cn^                                                                                       
+||gslb.hpplay.cn^   
+||cdn.hpplay.com.cn^                                                                                    
+||h5.hpplay.com.cn^                                                                                      
+||adeng.hpplay.cn^                                                                  
+||conf.hpplay.cn^                                                                                         
+||adcdn.hpplay.cn^                                                                                       
+||g.dtv.cn.miaozhen.com^                                                                                 
+||android.bugly.qq.com^                                                                                   
+||alog.umeng.com^                
+||pin.hpplay.cn^
 ||ad.hpplay.cn^
-||conf.hpplay.cn^
 ||fix.hpplay.cn^
-||adcdn.hpplay.cn^
-||sl.hpplay.cn^
-||rp.hpplay.cn^
 ! --------------------------------google ads-------------------------------- !
 ||http://doubleclick.net
 ||https://doubleclick.net
